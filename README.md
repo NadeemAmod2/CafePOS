@@ -2,7 +2,7 @@
 Point of Sale system for a cafe, with C# WPF
 
 # Screenshots of each page
-https://www.dropbox.com/s/kebhojuk9waaenn/____Total.png?dl=0
+![screenshot](https://www.dropbox.com/s/kebhojuk9waaenn/____Total.png?dl=0)
 https://www.dropbox.com/s/wea5lojutopivz7/00__Loading%20page.png?dl=0
 https://www.dropbox.com/s/5bxgsw30tdgvpnh/01__Category%20page.png?dl=0
 https://www.dropbox.com/s/fxxizqle4cv4v4w/02__Login%20page.png?dl=0
