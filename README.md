@@ -3,10 +3,11 @@ Point of Sale system for a cafe, with C# WPF
 
 # Screenshots of main pages
 
-## Loading page
+
+### Loading page
 ![screenshot1](https://i.gyazo.com/0d86eb039829304b27428eccc0f69d86.png)
 
-## First page
+### First page
 ![screenshot2](https://i.gyazo.com/dc80a45a8676be8359de444ce3100e4c.png)
 
 Login page
