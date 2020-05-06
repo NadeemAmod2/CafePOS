@@ -26,4 +26,4 @@ Point of Sale system for a cafe, with C# WPF
 
 ![screenshot12](https://i.gyazo.com/1f024feb16ac64727581df8f054596a5.png)
 
-![screenshot13](https://gyazo.com/1fb69ed73e5edae35e9331bd0e60140e)
+![screenshot13](https://i.gyazo.com/1fb69ed73e5edae35e9331bd0e60140e.png)
