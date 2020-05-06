@@ -1,6 +1,9 @@
 # CafePOS
 Point of Sale system for a cafe, with C# WPF
 
+# Skills
+C# WPF, MySQL, XAML, Nuget packages, Receipt Printer, Cash-drawer, POS
+
 # Screenshots of main pages
 
 
